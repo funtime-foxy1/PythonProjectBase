@@ -1,0 +1,1 @@
+This is an example base for you guys. Edit images in the textures folder.
